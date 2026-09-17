@@ -1,0 +1,13 @@
+=== TALLER ENCAPSULACIÓN - CASO 1: CUENTA BANCARIA ===
+Saldo actual de Daniel Salas: $500000
+Clave incorrecta. Acceso denegado.
+
+=== DEPÓSITOS Y RETIROS ===
+Depósito exitoso. Nuevo saldo: $650000
+Retiro exitoso. Nuevo saldo: $450000
+Fondos insuficientes.
+Clave incorrecta. No se puede retirar.
+
+=== CAMBIO DE CLAVE ===
+Clave actualizada correctamente.
+Saldo actual de Daniel Salas: $450000

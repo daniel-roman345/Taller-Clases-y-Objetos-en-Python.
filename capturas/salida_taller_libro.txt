@@ -1,0 +1,38 @@
+=== INFORMACIÓN INICIAL ===
+Título: Don Quijote de la Mancha
+Autor: Miguel de Cervantes
+Páginas: 863
+Estado: Disponible
+
+Título: Cien años de soledad
+Autor: Gabriel García Márquez
+Páginas: 471
+Estado: Disponible
+
+=== PRÉSTAMOS ===
+El libro "Don Quijote de la Mancha" ha sido prestado.
+El libro "Cien años de soledad" ha sido prestado.
+
+=== INTENTO DE PRESTAR DE NUEVO ===
+El libro "Don Quijote de la Mancha" no está disponible.
+
+=== ESTADO ACTUAL ===
+Título: Don Quijote de la Mancha
+Autor: Miguel de Cervantes
+Páginas: 863
+Estado: Prestado
+
+=== DEVOLUCIÓN ===
+El libro "Don Quijote de la Mancha" ha sido devuelto.
+El libro "Don Quijote de la Mancha" ya estaba en la biblioteca.
+
+=== INFORMACIÓN FINAL ===
+Título: Don Quijote de la Mancha
+Autor: Miguel de Cervantes
+Páginas: 863
+Estado: Disponible
+
+Título: Cien años de soledad
+Autor: Gabriel García Márquez
+Páginas: 471
+Estado: Prestado

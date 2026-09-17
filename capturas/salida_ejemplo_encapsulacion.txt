@@ -1,0 +1,8 @@
+=== EJEMPLO 4: ENCAPSULACIÓN ===
+Titular: Daniel Salas
+Saldo inicial: $1000
+Depósito exitoso. Nuevo saldo: $1500
+Retiro exitoso. Nuevo saldo: $1300
+Fondos insuficientes.
+Saldo final: $1300
+Acceso directo bloqueado por encapsulación: 'CuentaBancaria' object has no attribute '__saldo'

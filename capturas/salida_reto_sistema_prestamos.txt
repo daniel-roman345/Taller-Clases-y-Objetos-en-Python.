@@ -1,0 +1,87 @@
+
+============================================================
+1. REGISTRO DE EQUIPOS
+============================================================
+Equipo 'Portátil Lenovo' registrado con código E001.
+Equipo 'Portátil HP' registrado con código E002.
+Equipo 'Videobeam Epson' registrado con código E003.
+Equipo 'Tablet Samsung' registrado con código E004.
+Ya existe un equipo con código E001.
+
+============================================================
+2. REGISTRO DE USUARIOS
+============================================================
+Usuario 'Daniel Salas' registrado con documento 1002003004.
+Usuario 'Laura Gómez' registrado con documento 1003004005.
+Usuario 'Carlos Ríos' registrado con documento 2001002003.
+
+============================================================
+3. INVENTARIO INICIAL DE EQUIPOS
+============================================================
+[E001] Portátil Lenovo (Computador - Lenovo) | Estado: Bueno | Disponible
+[E002] Portátil HP (Computador - HP) | Estado: Bueno | Disponible
+[E003] Videobeam Epson (Videobeam - Epson) | Estado: Bueno | Disponible
+[E004] Tablet Samsung (Tablet - Samsung) | Estado: Bueno | Disponible
+
+============================================================
+4. LISTADO DE USUARIOS
+============================================================
+Usuario: Daniel Salas | Doc: 1002003004 | Rol: Aprendiz | Correo: daniel@sena.edu.co | Préstamos activos: 0
+Usuario: Laura Gómez | Doc: 1003004005 | Rol: Aprendiz | Correo: laura@sena.edu.co | Préstamos activos: 0
+Usuario: Carlos Ríos | Doc: 2001002003 | Rol: Instructor | Correo: carlos@sena.edu.co | Préstamos activos: 0
+
+============================================================
+5. REGISTRO DE PRÉSTAMOS
+============================================================
+Préstamo #1 registrado: Daniel Salas -> Portátil Lenovo.
+Préstamo #2 registrado: Laura Gómez -> Videobeam Epson.
+Préstamo #3 registrado: Carlos Ríos -> Portátil HP.
+No existe el usuario con documento 9999999999.
+No existe el equipo con código E999.
+El equipo 'Portátil HP' no está disponible.
+
+============================================================
+6. PRÉSTAMOS ACTIVOS
+============================================================
+Préstamo #1 | Usuario: 1002003004 | Equipo: E001 | Salida: 2026-09-17 00:29 | Devolución: — | Estado: ACTIVO
+Préstamo #2 | Usuario: 1003004005 | Equipo: E003 | Salida: 2026-09-17 00:29 | Devolución: — | Estado: ACTIVO
+Préstamo #3 | Usuario: 2001002003 | Equipo: E002 | Salida: 2026-09-17 00:29 | Devolución: — | Estado: ACTIVO
+
+============================================================
+7. PRÉSTAMOS DE UN USUARIO ESPECÍFICO
+============================================================
+Préstamos activos de Daniel Salas:
+- [E001] Portátil Lenovo (Computador - Lenovo) | Estado: Bueno | Prestado
+
+============================================================
+8. MODIFICACIÓN DE OBSERVACIONES
+============================================================
+Observaciones del préstamo #1 actualizadas.
+
+============================================================
+9. DEVOLUCIÓN DE EQUIPOS
+============================================================
+Préstamo #1 devuelto. Equipo 'Portátil Lenovo' reportado como 'Bueno'.
+Préstamo #2 devuelto. Equipo 'Videobeam Epson' reportado como 'Regular'.
+El préstamo #1 ya fue devuelto.
+No existe préstamo con id 99.
+
+============================================================
+10. ESTADO FINAL DEL INVENTARIO
+============================================================
+[E001] Portátil Lenovo (Computador - Lenovo) | Estado: Bueno | Disponible
+[E002] Portátil HP (Computador - HP) | Estado: Bueno | Prestado
+[E003] Videobeam Epson (Videobeam - Epson) | Estado: Regular | Disponible
+[E004] Tablet Samsung (Tablet - Samsung) | Estado: Bueno | Disponible
+
+============================================================
+11. HISTÓRICO COMPLETO DE PRÉSTAMOS
+============================================================
+Préstamo #1 | Usuario: 1002003004 | Equipo: E001 | Salida: 2026-09-17 00:29 | Devolución: 2026-09-17 00:29 | Estado: DEVUELTO
+Préstamo #2 | Usuario: 1003004005 | Equipo: E003 | Salida: 2026-09-17 00:29 | Devolución: 2026-09-17 00:29 | Estado: DEVUELTO
+Préstamo #3 | Usuario: 2001002003 | Equipo: E002 | Salida: 2026-09-17 00:29 | Devolución: — | Estado: ACTIVO
+
+============================================================
+12. PRÉSTAMOS ACTIVOS RESTANTES
+============================================================
+Préstamo #3 | Usuario: 2001002003 | Equipo: E002 | Salida: 2026-09-17 00:29 | Devolución: — | Estado: ACTIVO
